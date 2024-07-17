@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.custom{
+    width: 771.5px;
+}
+.custom2{
+    width: 476.5px;
+}
+a {
+    @apply underline text-[#0067b8]
+ }
